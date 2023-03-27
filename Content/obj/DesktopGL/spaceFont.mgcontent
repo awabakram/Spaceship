@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/awaba/Documents/School stuff/College/Computer Science/NEA/Programs/Prototyping/MonoGame Introduction to c# game programming/tutorial 2 - Spaceship/Spaceship/Content/spaceFont.spritefont</SourceFile>
+  <SourceTime>2017-11-30T11:56:42+01:00</SourceTime>
+  <DestFile>C:/Users/awaba/Documents/School stuff/College/Computer Science/NEA/Programs/Prototyping/MonoGame Introduction to c# game programming/tutorial 2 - Spaceship/Spaceship/Content/bin/DesktopGL/spaceFont.xnb</DestFile>
+  <DestTime>2021-08-19T22:16:19.2889296+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-07-23T10:48:12+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-07-23T10:48:12+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
